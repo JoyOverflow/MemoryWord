@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Decoration</string>
+    <string name="btnLinear">普通线性布局</string>
+    <string name="btnGrid">普通网格布局</string>
+    <string name="btnMiddle">均分网格布局</string>
+    <string name="btnSpan">异形网格布局</string>
+</resources>
